@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Flutter App with Flavors</title>
-</head>
+
 <body>
   <h1>Flutter App with Flavors</h1>
   
